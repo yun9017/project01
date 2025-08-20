@@ -5,4 +5,4 @@
 int main(int argc, char* argv[]) {
 	printf("Hello, Sookmyung Elecetronics!\n");
 	return 0;
-
+}
